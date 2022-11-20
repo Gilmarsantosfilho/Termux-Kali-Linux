@@ -1,10 +1,6 @@
-# Termux-Kali-Linux
 
+# Processo de Instalação
 
-# Instalação
-
-
-# Tem que ter o Wget instalado para dar Certo  
 
 
 ```
