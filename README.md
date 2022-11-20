@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/Gilmarsantosfilho/Termux-Kali-Linux/main/
 bash Setup
 ```
 
-
+#  método de uso
 
 Sempe que for iniciar usa  ```KALI```
 
