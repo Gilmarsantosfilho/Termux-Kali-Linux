@@ -18,6 +18,9 @@ wget https://raw.githubusercontent.com/Gilmarsantosfilho/Termux-Kali-Linux/main/
 ```
 
 ```
-bash setup
+bash Setup
 ```
+
+Sempe que for iniciar usa  ```KALI```
+
 
