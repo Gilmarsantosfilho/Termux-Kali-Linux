@@ -380,7 +380,7 @@ extract_rootfs
 create_launcher
 cleanup
 
-printf "\n${blue}[*] Configurando Kali Termux ...\n"
+printf "\n${blue}[*] Configurando Kali no Termux ...\n"
 fix_profile_bash
 fix_sudo
 create_kex_launcher
@@ -388,4 +388,4 @@ fix_uid
 
 print_banner
 printf "${green}[=] Kali no  Termux instalado com sucesso${reset}\n\n"
-printf "${green}[+] To start Kali NetHunter, type:${reset}\n"
+printf "${green}[+] Quando For iniciar usa  ➡KALI⬅ , type:${reset}\n"
